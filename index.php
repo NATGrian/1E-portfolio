@@ -1,3 +1,4 @@
+<title>E-Protfolio</title>
 <?php 
-กกก
+    header('Location: pages/Home/');
 ?>
